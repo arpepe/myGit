@@ -1,0 +1,2 @@
+# myGit
+demo python program
